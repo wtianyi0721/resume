@@ -1,18 +1,13 @@
 
-Tianyi Wang
-
-photo:
-
-
-
 Markdown Preview
 
 Tianyi Wang
 
-photo
-/Users/admin/Desktop/截屏2024-09-23 下午2.25.42
+![image](https://github.com/user-attachments/assets/437c7f14-31c7-4450-bf1f-39344263ec83)
+
 
 Education:
+
 Columbia University
 Renmin University
 University of Science and Technology Beijing
