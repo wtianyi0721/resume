@@ -1,0 +1,41 @@
+## What are your scientific questions? 
+
+The connection between cloud coverage and solar radiation distribution 
+
+## What are your datasets?
+
+From data.gov : https://www.nrel.gov/gis/solar-resource-maps.html
+
+Variables include 
+- Irradiance:
+    - Global Horizontal (ghi)
+    - Direct Normal (dni)
+    - Diffuse (dhi)
+- Clear-sky Irradiance
+- Cloud Type
+- Dew Point
+- Temperature
+- Surface Albedo
+- Pressure
+- Relative Humidity
+- Solar Zenith Angle
+- Precipitable Water
+- Wind Direction
+- Wind Speed
+- Fill Flag
+- Angstrom wavelength exponent (alpha)
+- Aerosol optical depth (aod)
+- Aerosol asymmetry parameter (asymmetry)
+- Cloud optical depth (cld_opd_dcomp)
+- Cloud effective radius (cld_ref_dcomp)
+- cloud_press_acha
+- Reduced ozone vertical pathlength (ozone)
+- Aerosol single-scatter albedo (ssa)
+
+## What is the analysis that you plan to conduct?
+
+First of all, this study is going to conduct the geological distribution of solar inward radiation and albedo. By comparing different locations, the volume and extreme values can be calculated and visualized. Then based on the provided variables, it is also important to plot the distribution of cloud coverage. In further analysis, this study will conduct the relation between cloud average and solar radiation at a specific state based on previous results. 
+
+## What are the outcomes that you plan to achieve?
+
+This study is going to research the general solar radiation in the United States and how solar energy influx varies based on geographical features and cloud depth, thereby facilitating solar energy research and the construction of renewable energy infrastructure.
